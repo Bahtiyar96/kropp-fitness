@@ -1039,7 +1039,7 @@ input::-webkit-inner-spin-button {
   right: 0;
   height: 100%;
   aspect-ratio: 1;
-  background: url('./icons/arrow-top-right.svg') center/70% no-repeat;
+  background: url('./icons/arrow-top-right.svg') center no-repeat;
   border: var(--border);
   border-radius: 50%;
 }
